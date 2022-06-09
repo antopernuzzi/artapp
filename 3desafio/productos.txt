@@ -1,0 +1,3 @@
+[{"title":"Luxor","price":"5600","thumbnail":"https://res.cloudinary.com/dtbsvosyu/image/upload/v1652316301/samples/Cuadros/cuadro10_lrab3y.jpg","id":1},
+{"title":"Job","price":"45600","thumbnail":"https://res.cloudinary.com/dtbsvosyu/image/upload/v1652316358/samples/Objetos/objeto6_rupvc5.jpg","id":2},
+{"title":"pintab","price":"34500","thumbnail":"https://res.cloudinary.com/dtbsvosyu/image/upload/v1652316360/samples/Objetos/objeto3_n1lnm4.jpg","id":3}]

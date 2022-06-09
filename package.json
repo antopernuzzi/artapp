@@ -8,7 +8,7 @@
   "version": "1.0.0",
   "main": "clase3.js",
   "scripts": {
-    "start": "node clase6Servidores.js"
+    "start": "node 3desafio/index.js"
     
   },
   "author": "",
